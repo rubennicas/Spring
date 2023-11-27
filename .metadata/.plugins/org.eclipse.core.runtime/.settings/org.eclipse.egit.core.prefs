@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=/home/jsomoza/repositorios/ejemplos/Spring-Boot-Keycloak-Integration/.git\:/home/jsomoza/repositorios/ejemplos/Spring-Boot-Rest-Application/.git\:
+GitRepositoriesView.GitDirectories.relative=/home/jsomoza/repositorios/ejemplos/Spring-Boot-Keycloak-Integration/.git\:/home/jsomoza/repositorios/ejemplos/Spring-Boot-Rest-Application/.git\:
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
